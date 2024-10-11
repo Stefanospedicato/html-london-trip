@@ -8,3 +8,5 @@ Riproduzione di un file HTML
 - ho inserito i primi commenti cercando di essere ordinato e diretto
 - sono passato ad un nuovo tag section dove mi sono apprestato ad inserire un titolo un po' più piccolo del precedente usando l'h2 e la relativa tabella.
 - ho creato la terza sezione e ho creato un elenco puntato con il UL. Per cercare i simboli speciali ho utilizzato, in questo caso, la & e la relativa traduzione in inglese del simbolo.
+- ho creato la quarta sezione con una lista ordinata (OL) contenente a sua volta una lista non ordinata (UL)
+infine, nel footer, ho deciso di inserire le ultime due foto in una nuova sezione.
